@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/res/merged/release/transition-v22/lb_browse_return_transition.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/transition-v22/lb_browse_return_transition.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/res/merged/release/transition-v22/lb_browse_entrance_transition.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/transition-v22/lb_browse_entrance_transition.xml"
+    }
+]

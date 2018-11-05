@@ -1,0 +1,28 @@
+[
+    {
+        "outputFile": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-v19/values-v19.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 9,
+                    "endColumn": 12,
+                    "endOffset": 574
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-v19/values-v19.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endLine": 11,
+                        "endColumn": 12,
+                        "endOffset": 748
+                    }
+                }
+            }
+        ]
+    }
+]

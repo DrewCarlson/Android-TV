@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/res/merged/release/color/abc_primary_text_material_light.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/res/merged/release/color/abc_primary_text_material_dark.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/res/merged/release/color/abc_search_url_text.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_search_url_text.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/res/merged/release/color/switch_thumb_material_dark.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_light.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/res/merged/release/color/abc_secondary_text_material_dark.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/res/merged/release/color/switch_thumb_material_light.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/res/merged/release/color/abc_primary_text_disable_only_material_dark.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/res/merged/release/color/action_button_text_color_selector.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/color/action_button_text_color_selector.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/res/merged/release/color/abc_secondary_text_material_light.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/DynamicParser/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/color/abc_secondary_text_material_light.xml"
+    }
+]

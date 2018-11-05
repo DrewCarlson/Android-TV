@@ -1,0 +1,957 @@
+[
+    {
+        "outputFile": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/incremental/mergeDebugResources/merged.dir/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 193,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 193,
+                        "endOffset": 244
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 163,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 249,
+                        "endColumn": 163,
+                        "endOffset": 408
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 55,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 413,
+                        "endColumn": 55,
+                        "endOffset": 464
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 57,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 469,
+                        "endColumn": 57,
+                        "endOffset": 522
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 45,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 527,
+                        "endColumn": 45,
+                        "endOffset": 568
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 46,
+                    "endOffset": 615
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 985,
+                        "endColumn": 44,
+                        "endOffset": 1027
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 620,
+                    "endColumn": 45,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1030,
+                        "endColumn": 43,
+                        "endOffset": 1071
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 49,
+                    "endOffset": 711
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 573,
+                        "endColumn": 49,
+                        "endOffset": 618
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 716,
+                    "endColumn": 63,
+                    "endOffset": 775
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 623,
+                        "endColumn": 63,
+                        "endOffset": 682
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 780,
+                    "endColumn": 94,
+                    "endOffset": 870
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 687,
+                        "endColumn": 94,
+                        "endOffset": 777
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 875,
+                    "endColumn": 79,
+                    "endOffset": 950
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 782,
+                        "endColumn": 79,
+                        "endOffset": 857
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 955,
+                    "endColumn": 65,
+                    "endOffset": 1016
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1378,
+                        "endColumn": 63,
+                        "endOffset": 1439
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1021,
+                    "endColumn": 39,
+                    "endOffset": 1056
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1340,
+                        "endColumn": 37,
+                        "endOffset": 1375
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1061,
+                    "endColumn": 43,
+                    "endOffset": 1100
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/PurchaseInterface/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 43,
+                        "endOffset": 94
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1105,
+                    "endColumn": 68,
+                    "endOffset": 1169
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 862,
+                        "endColumn": 68,
+                        "endOffset": 926
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1174,
+                    "endColumn": 112,
+                    "endOffset": 1282
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 931,
+                        "endColumn": 112,
+                        "endOffset": 1039
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1287,
+                    "endColumn": 45,
+                    "endOffset": 1328
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1044,
+                        "endColumn": 45,
+                        "endOffset": 1085
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1333,
+                    "endColumn": 71,
+                    "endOffset": 1400
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1090,
+                        "endColumn": 71,
+                        "endOffset": 1157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1405,
+                    "endColumn": 87,
+                    "endOffset": 1488
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1162,
+                        "endColumn": 87,
+                        "endOffset": 1245
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1493,
+                    "endColumn": 54,
+                    "endOffset": 1543
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1250,
+                        "endColumn": 54,
+                        "endOffset": 1300
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1548,
+                    "endColumn": 53,
+                    "endOffset": 1597
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1305,
+                        "endColumn": 53,
+                        "endOffset": 1354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1602,
+                    "endColumn": 89,
+                    "endOffset": 1687
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1359,
+                        "endColumn": 89,
+                        "endOffset": 1444
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1692,
+                    "endColumn": 47,
+                    "endOffset": 1735
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1449,
+                        "endColumn": 47,
+                        "endOffset": 1492
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 1740,
+                    "endColumn": 118,
+                    "endOffset": 1854
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1497,
+                        "endColumn": 118,
+                        "endOffset": 1611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 1859,
+                    "endColumn": 107,
+                    "endOffset": 1962
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1616,
+                        "endColumn": 107,
+                        "endOffset": 1719
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 1967,
+                    "endColumn": 35,
+                    "endOffset": 1998
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1306,
+                        "endColumn": 33,
+                        "endOffset": 1337
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2003,
+                    "endColumn": 49,
+                    "endOffset": 2048
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 1516,
+                        "endColumn": 47,
+                        "endOffset": 1561
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2053,
+                    "endColumn": 99,
+                    "endOffset": 2148
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1208,
+                        "endColumn": 97,
+                        "endOffset": 1303
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2153,
+                    "endColumn": 61,
+                    "endOffset": 2210
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1148,
+                        "endColumn": 59,
+                        "endOffset": 1205
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2215,
+                    "endColumn": 85,
+                    "endOffset": 2296
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 1724,
+                        "endColumn": 85,
+                        "endOffset": 1805
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2301,
+                    "endColumn": 40,
+                    "endOffset": 2337
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 902,
+                        "endColumn": 38,
+                        "endOffset": 938
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 2342,
+                    "endColumn": 45,
+                    "endOffset": 2383
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 941,
+                        "endColumn": 43,
+                        "endOffset": 982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 2388,
+                    "endColumn": 75,
+                    "endOffset": 2459
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1074,
+                        "endColumn": 73,
+                        "endOffset": 1145
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 2464,
+                    "endColumn": 142,
+                    "endOffset": 2602
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 1810,
+                        "endColumn": 142,
+                        "endOffset": 1948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 2607,
+                    "endColumn": 43,
+                    "endOffset": 2646
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 816,
+                        "endColumn": 41,
+                        "endOffset": 855
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 2651,
+                    "endColumn": 45,
+                    "endOffset": 2692
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 858,
+                        "endColumn": 43,
+                        "endOffset": 899
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 2697,
+                    "endColumn": 103,
+                    "endOffset": 2796
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 1953,
+                        "endColumn": 103,
+                        "endOffset": 2052
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 2801,
+                    "endColumn": 107,
+                    "endOffset": 2904
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2057,
+                        "endColumn": 107,
+                        "endOffset": 2160
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 2909,
+                    "endColumn": 75,
+                    "endOffset": 2980
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2165,
+                        "endColumn": 75,
+                        "endOffset": 2236
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 2985,
+                    "endColumn": 71,
+                    "endOffset": 3052
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2241,
+                        "endColumn": 71,
+                        "endOffset": 2308
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 3057,
+                    "endColumn": 62,
+                    "endOffset": 3115
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2313,
+                        "endColumn": 62,
+                        "endOffset": 2371
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 3120,
+                    "endColumn": 60,
+                    "endOffset": 3176
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 2376,
+                        "endColumn": 60,
+                        "endOffset": 2432
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 3181,
+                    "endColumn": 75,
+                    "endOffset": 3252
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 1442,
+                        "endColumn": 73,
+                        "endOffset": 1513
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 3257,
+                    "endColumn": 71,
+                    "endOffset": 3324
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 2437,
+                        "endColumn": 71,
+                        "endOffset": 2504
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 3329,
+                    "endColumn": 52,
+                    "endOffset": 3377
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 2509,
+                        "endColumn": 52,
+                        "endOffset": 2557
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 3382,
+                    "endColumn": 53,
+                    "endOffset": 3431
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/build/intermediates/exploded-aar/kdvr_android/Utils/0.7.1.201405082137/res/values-en/values-en.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 2562,
+                        "endColumn": 53,
+                        "endOffset": 2611
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 3436,
+                    "endColumn": 56,
+                    "endOffset": 3488
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 697,
+                        "endColumn": 54,
+                        "endOffset": 749
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 3493,
+                    "endColumn": 65,
+                    "endOffset": 3554
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 752,
+                        "endColumn": 63,
+                        "endOffset": 813
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 3559,
+                    "endColumn": 45,
+                    "endOffset": 3600
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 611,
+                        "endColumn": 43,
+                        "endOffset": 652
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 51,
+                    "startColumn": 4,
+                    "startOffset": 3605,
+                    "endColumn": 43,
+                    "endOffset": 3644
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/ContentBrowser/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 655,
+                        "endColumn": 41,
+                        "endOffset": 694
+                    }
+                }
+            }
+        ]
+    }
+]

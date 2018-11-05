@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="encrypted_flurry_api_key">YOUR_ENCRYPTED_FLURRY_API_KEY</string>
+    <string name="flurry_analytics_custom_tags">configurations/FlurryCustomAnalyticsTags.json</string>
+    <string name="flurry_key_1">flurry_random_key_1</string>
+    <string name="flurry_key_2">flurry_random_key_2</string>
+    <string name="flurry_key_3">flurry_random_key_3</string>
+    <string name="flurry_key_4">flurry_random_key_4</string>
+    <string name="flurry_key_5">flurry_random_key_5</string>
+    <string name="flurry_key_6">flurry_random_key_6</string>
+</resources>
