@@ -1,0 +1,938 @@
+[
+    {
+        "outputFile": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/incremental/mergeDebugResources/merged.dir/values-nl/values-nl.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 117,
+                    "endOffset": 218
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 229,
+                        "endColumn": 117,
+                        "endOffset": 342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 223,
+                    "endColumn": 107,
+                    "endOffset": 326
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 347,
+                        "endColumn": 107,
+                        "endOffset": 450
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 331,
+                    "endColumn": 122,
+                    "endOffset": 449
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 455,
+                        "endColumn": 122,
+                        "endOffset": 573
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 454,
+                    "endColumn": 104,
+                    "endOffset": 554
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 578,
+                        "endColumn": 104,
+                        "endOffset": 678
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 559,
+                    "endColumn": 106,
+                    "endOffset": 661
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 683,
+                        "endColumn": 106,
+                        "endOffset": 785
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 666,
+                    "endColumn": 85,
+                    "endOffset": 747
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 790,
+                        "endColumn": 85,
+                        "endOffset": 871
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 752,
+                    "endColumn": 107,
+                    "endOffset": 855
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 876,
+                        "endColumn": 107,
+                        "endOffset": 979
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 860,
+                    "endColumn": 119,
+                    "endOffset": 975
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 984,
+                        "endColumn": 119,
+                        "endOffset": 1099
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 980,
+                    "endColumn": 76,
+                    "endOffset": 1052
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1104,
+                        "endColumn": 76,
+                        "endOffset": 1176
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 1057,
+                    "endColumn": 76,
+                    "endOffset": 1129
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1181,
+                        "endColumn": 76,
+                        "endOffset": 1253
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 1134,
+                    "endColumn": 81,
+                    "endOffset": 1211
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1258,
+                        "endColumn": 81,
+                        "endOffset": 1335
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1216,
+                    "endColumn": 110,
+                    "endOffset": 1322
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1340,
+                        "endColumn": 110,
+                        "endOffset": 1446
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1327,
+                    "endColumn": 103,
+                    "endOffset": 1426
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1451,
+                        "endColumn": 103,
+                        "endOffset": 1550
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1431,
+                    "endColumn": 98,
+                    "endOffset": 1525
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1555,
+                        "endColumn": 98,
+                        "endOffset": 1649
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1530,
+                    "endColumn": 114,
+                    "endOffset": 1640
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1654,
+                        "endColumn": 114,
+                        "endOffset": 1764
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1645,
+                    "endColumn": 112,
+                    "endOffset": 1753
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1769,
+                        "endColumn": 112,
+                        "endOffset": 1877
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1758,
+                    "endColumn": 102,
+                    "endOffset": 1856
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 1882,
+                        "endColumn": 102,
+                        "endOffset": 1980
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1861,
+                    "endColumn": 117,
+                    "endOffset": 1974
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 1985,
+                        "endColumn": 117,
+                        "endOffset": 2098
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1979,
+                    "endColumn": 102,
+                    "endOffset": 2077
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2103,
+                        "endColumn": 102,
+                        "endOffset": 2201
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 2082,
+                    "endColumn": 106,
+                    "endOffset": 2184
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 279,
+                        "endColumn": 106,
+                        "endOffset": 381
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 2189,
+                    "endColumn": 100,
+                    "endOffset": 2285
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 386,
+                        "endColumn": 100,
+                        "endOffset": 482
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 2290,
+                    "endColumn": 131,
+                    "endOffset": 2417
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 487,
+                        "endColumn": 131,
+                        "endOffset": 614
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 2422,
+                    "endColumn": 129,
+                    "endOffset": 2547
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 619,
+                        "endColumn": 129,
+                        "endOffset": 744
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2552,
+                    "endColumn": 106,
+                    "endOffset": 2654
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 749,
+                        "endColumn": 106,
+                        "endOffset": 851
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2659,
+                    "endColumn": 123,
+                    "endOffset": 2778
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 856,
+                        "endColumn": 123,
+                        "endOffset": 975
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2783,
+                    "endColumn": 127,
+                    "endOffset": 2906
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 980,
+                        "endColumn": 127,
+                        "endOffset": 1103
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2911,
+                    "endColumn": 124,
+                    "endOffset": 3031
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1108,
+                        "endColumn": 124,
+                        "endOffset": 1228
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 3036,
+                    "endColumn": 103,
+                    "endOffset": 3135
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1233,
+                        "endColumn": 103,
+                        "endOffset": 1332
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 3140,
+                    "endColumn": 96,
+                    "endOffset": 3232
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1337,
+                        "endColumn": 96,
+                        "endOffset": 1429
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 3237,
+                    "endColumn": 91,
+                    "endOffset": 3324
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1434,
+                        "endColumn": 91,
+                        "endOffset": 1521
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 3329,
+                    "endColumn": 104,
+                    "endOffset": 3429
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 15,
+                        "startColumn": 4,
+                        "startOffset": 1526,
+                        "endColumn": 104,
+                        "endOffset": 1626
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 33,
+                    "startColumn": 4,
+                    "startOffset": 3434,
+                    "endColumn": 102,
+                    "endOffset": 3532
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 4,
+                        "startOffset": 1631,
+                        "endColumn": 102,
+                        "endOffset": 1729
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 34,
+                    "startColumn": 4,
+                    "startOffset": 3537,
+                    "endColumn": 102,
+                    "endOffset": 3635
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 4,
+                        "startOffset": 1734,
+                        "endColumn": 102,
+                        "endOffset": 1832
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 35,
+                    "startColumn": 4,
+                    "startOffset": 3640,
+                    "endColumn": 98,
+                    "endOffset": 3734
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 4,
+                        "startOffset": 1837,
+                        "endColumn": 98,
+                        "endOffset": 1931
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 36,
+                    "startColumn": 4,
+                    "startOffset": 3739,
+                    "endColumn": 115,
+                    "endOffset": 3850
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 4,
+                        "startOffset": 1936,
+                        "endColumn": 115,
+                        "endOffset": 2047
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 37,
+                    "startColumn": 4,
+                    "startOffset": 3855,
+                    "endColumn": 115,
+                    "endOffset": 3966
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 2052,
+                        "endColumn": 115,
+                        "endOffset": 2163
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 38,
+                    "startColumn": 4,
+                    "startOffset": 3971,
+                    "endColumn": 113,
+                    "endOffset": 4080
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 4,
+                        "startOffset": 2168,
+                        "endColumn": 113,
+                        "endOffset": 2277
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 39,
+                    "startColumn": 4,
+                    "startOffset": 4085,
+                    "endColumn": 102,
+                    "endOffset": 4183
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 4,
+                        "startOffset": 2282,
+                        "endColumn": 102,
+                        "endOffset": 2380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 40,
+                    "startColumn": 4,
+                    "startOffset": 4188,
+                    "endColumn": 104,
+                    "endOffset": 4288
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2385,
+                        "endColumn": 104,
+                        "endOffset": 2485
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 41,
+                    "startColumn": 4,
+                    "startOffset": 4293,
+                    "endColumn": 131,
+                    "endOffset": 4420
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 4,
+                        "startOffset": 2490,
+                        "endColumn": 131,
+                        "endOffset": 2617
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 42,
+                    "startColumn": 4,
+                    "startOffset": 4425,
+                    "endColumn": 122,
+                    "endOffset": 4543
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 4,
+                        "startOffset": 2622,
+                        "endColumn": 122,
+                        "endOffset": 2740
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 43,
+                    "startColumn": 4,
+                    "startOffset": 4548,
+                    "endColumn": 124,
+                    "endOffset": 4668
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 4,
+                        "startOffset": 2745,
+                        "endColumn": 124,
+                        "endOffset": 2865
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 44,
+                    "startColumn": 4,
+                    "startOffset": 4673,
+                    "endColumn": 115,
+                    "endOffset": 4784
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 4,
+                        "startOffset": 2870,
+                        "endColumn": 115,
+                        "endOffset": 2981
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 45,
+                    "startColumn": 4,
+                    "startOffset": 4789,
+                    "endColumn": 83,
+                    "endOffset": 4868
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 4,
+                        "startOffset": 2986,
+                        "endColumn": 83,
+                        "endOffset": 3065
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 46,
+                    "startColumn": 4,
+                    "startOffset": 4873,
+                    "endColumn": 103,
+                    "endOffset": 4972
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 4,
+                        "startOffset": 3070,
+                        "endColumn": 103,
+                        "endOffset": 3169
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 47,
+                    "startColumn": 4,
+                    "startOffset": 4977,
+                    "endColumn": 134,
+                    "endOffset": 5107
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 4,
+                        "startOffset": 3174,
+                        "endColumn": 134,
+                        "endOffset": 3304
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 48,
+                    "startColumn": 4,
+                    "startOffset": 5112,
+                    "endColumn": 157,
+                    "endOffset": 5265
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 4,
+                        "startOffset": 3309,
+                        "endColumn": 157,
+                        "endOffset": 3462
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 49,
+                    "startColumn": 4,
+                    "startOffset": 5270,
+                    "endColumn": 88,
+                    "endOffset": 5354
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 4,
+                        "startOffset": 3467,
+                        "endColumn": 88,
+                        "endOffset": 3551
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 50,
+                    "startColumn": 4,
+                    "startOffset": 5359,
+                    "endColumn": 100,
+                    "endOffset": 5455
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/values-nl/values-nl.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 4,
+                        "startOffset": 2206,
+                        "endColumn": 100,
+                        "endOffset": 2302
+                    }
+                }
+            }
+        ]
+    }
+]

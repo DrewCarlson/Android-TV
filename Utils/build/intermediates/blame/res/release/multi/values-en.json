@@ -1,0 +1,596 @@
+[
+    {
+        "outputFile": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-en/values-en.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 193,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 2,
+                        "startOffset": 951,
+                        "endColumn": 191,
+                        "endOffset": 1140
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 249,
+                    "endColumn": 163,
+                    "endOffset": 408
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 2,
+                        "startOffset": 1143,
+                        "endColumn": 161,
+                        "endOffset": 1302
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 413,
+                    "endColumn": 55,
+                    "endOffset": 464
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 31,
+                        "startColumn": 2,
+                        "startOffset": 1985,
+                        "endColumn": 53,
+                        "endOffset": 2036
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 469,
+                    "endColumn": 57,
+                    "endOffset": 522
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 43,
+                        "startColumn": 2,
+                        "startOffset": 2772,
+                        "endColumn": 55,
+                        "endOffset": 2825
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 6,
+                    "startColumn": 4,
+                    "startOffset": 527,
+                    "endColumn": 45,
+                    "endOffset": 568
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 42,
+                        "startColumn": 2,
+                        "startOffset": 2728,
+                        "endColumn": 43,
+                        "endOffset": 2769
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 7,
+                    "startColumn": 4,
+                    "startOffset": 573,
+                    "endColumn": 49,
+                    "endOffset": 618
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 27,
+                        "startColumn": 2,
+                        "startOffset": 1786,
+                        "endColumn": 47,
+                        "endOffset": 1831
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 623,
+                    "endColumn": 63,
+                    "endOffset": 682
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 2,
+                        "startOffset": 1646,
+                        "endColumn": 61,
+                        "endOffset": 1705
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 9,
+                    "startColumn": 4,
+                    "startOffset": 687,
+                    "endColumn": 94,
+                    "endOffset": 777
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 2,
+                        "startOffset": 611,
+                        "endColumn": 92,
+                        "endOffset": 701
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 782,
+                    "endColumn": 79,
+                    "endOffset": 857
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 26,
+                        "startColumn": 2,
+                        "startOffset": 1708,
+                        "endColumn": 77,
+                        "endOffset": 1783
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 11,
+                    "startColumn": 4,
+                    "startOffset": 862,
+                    "endColumn": 68,
+                    "endOffset": 926
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 37,
+                        "startColumn": 2,
+                        "startOffset": 2359,
+                        "endColumn": 66,
+                        "endOffset": 2423
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 12,
+                    "startColumn": 4,
+                    "startOffset": 931,
+                    "endColumn": 112,
+                    "endOffset": 1039
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 39,
+                        "startColumn": 2,
+                        "startOffset": 2512,
+                        "endColumn": 110,
+                        "endOffset": 2620
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 13,
+                    "startColumn": 4,
+                    "startOffset": 1044,
+                    "endColumn": 45,
+                    "endOffset": 1085
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 28,
+                        "startColumn": 2,
+                        "startOffset": 1834,
+                        "endColumn": 43,
+                        "endOffset": 1875
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 14,
+                    "startColumn": 4,
+                    "startOffset": 1090,
+                    "endColumn": 71,
+                    "endOffset": 1157
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 36,
+                        "startColumn": 2,
+                        "startOffset": 2289,
+                        "endColumn": 69,
+                        "endOffset": 2356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 1162,
+                    "endColumn": 87,
+                    "endOffset": 1245
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 38,
+                        "startColumn": 2,
+                        "startOffset": 2426,
+                        "endColumn": 85,
+                        "endOffset": 2509
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 16,
+                    "startColumn": 4,
+                    "startOffset": 1250,
+                    "endColumn": 54,
+                    "endOffset": 1300
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 40,
+                        "startColumn": 2,
+                        "startOffset": 2623,
+                        "endColumn": 52,
+                        "endOffset": 2673
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 17,
+                    "startColumn": 4,
+                    "startOffset": 1305,
+                    "endColumn": 53,
+                    "endOffset": 1354
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 41,
+                        "startColumn": 2,
+                        "startOffset": 2676,
+                        "endColumn": 51,
+                        "endOffset": 2725
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 18,
+                    "startColumn": 4,
+                    "startOffset": 1359,
+                    "endColumn": 89,
+                    "endOffset": 1444
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 2,
+                        "startOffset": 1422,
+                        "endColumn": 87,
+                        "endOffset": 1507
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 1449,
+                    "endColumn": 47,
+                    "endOffset": 1492
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 29,
+                        "startColumn": 2,
+                        "startOffset": 1878,
+                        "endColumn": 45,
+                        "endOffset": 1921
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1497,
+                    "endColumn": 118,
+                    "endOffset": 1611
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 2,
+                        "startOffset": 1305,
+                        "endColumn": 116,
+                        "endOffset": 1419
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1616,
+                    "endColumn": 107,
+                    "endOffset": 1719
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 2,
+                        "startOffset": 704,
+                        "endColumn": 105,
+                        "endOffset": 807
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 22,
+                    "startColumn": 4,
+                    "startOffset": 1724,
+                    "endColumn": 85,
+                    "endOffset": 1805
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 2,
+                        "startOffset": 1510,
+                        "endColumn": 83,
+                        "endOffset": 1591
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 23,
+                    "startColumn": 4,
+                    "startOffset": 1810,
+                    "endColumn": 142,
+                    "endOffset": 1948
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 2,
+                        "startOffset": 810,
+                        "endColumn": 140,
+                        "endOffset": 948
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 24,
+                    "startColumn": 4,
+                    "startOffset": 1953,
+                    "endColumn": 103,
+                    "endOffset": 2052
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 44,
+                        "startColumn": 2,
+                        "startOffset": 2828,
+                        "endColumn": 101,
+                        "endOffset": 2927
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 25,
+                    "startColumn": 4,
+                    "startOffset": 2057,
+                    "endColumn": 107,
+                    "endOffset": 2160
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 45,
+                        "startColumn": 2,
+                        "startOffset": 2930,
+                        "endColumn": 105,
+                        "endOffset": 3033
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 26,
+                    "startColumn": 4,
+                    "startOffset": 2165,
+                    "endColumn": 75,
+                    "endOffset": 2236
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 46,
+                        "startColumn": 2,
+                        "startOffset": 3036,
+                        "endColumn": 73,
+                        "endOffset": 3107
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 27,
+                    "startColumn": 4,
+                    "startOffset": 2241,
+                    "endColumn": 71,
+                    "endOffset": 2308
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 35,
+                        "startColumn": 2,
+                        "startOffset": 2219,
+                        "endColumn": 69,
+                        "endOffset": 2286
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 28,
+                    "startColumn": 4,
+                    "startOffset": 2313,
+                    "endColumn": 62,
+                    "endOffset": 2371
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 30,
+                        "startColumn": 2,
+                        "startOffset": 1924,
+                        "endColumn": 60,
+                        "endOffset": 1982
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 29,
+                    "startColumn": 4,
+                    "startOffset": 2376,
+                    "endColumn": 60,
+                    "endOffset": 2432
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 34,
+                        "startColumn": 2,
+                        "startOffset": 2160,
+                        "endColumn": 58,
+                        "endOffset": 2216
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 30,
+                    "startColumn": 4,
+                    "startOffset": 2437,
+                    "endColumn": 71,
+                    "endOffset": 2504
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 33,
+                        "startColumn": 2,
+                        "startOffset": 2090,
+                        "endColumn": 69,
+                        "endOffset": 2157
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 31,
+                    "startColumn": 4,
+                    "startOffset": 2509,
+                    "endColumn": 52,
+                    "endOffset": 2557
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 32,
+                        "startColumn": 2,
+                        "startOffset": 2039,
+                        "endColumn": 50,
+                        "endOffset": 2087
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 32,
+                    "startColumn": 4,
+                    "startOffset": 2562,
+                    "endColumn": 53,
+                    "endOffset": 2611
+                },
+                "from": {
+                    "file": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/values-en/strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 2,
+                        "startOffset": 1594,
+                        "endColumn": 51,
+                        "endOffset": 1643
+                    }
+                }
+            }
+        ]
+    }
+]

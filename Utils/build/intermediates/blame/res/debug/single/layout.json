@@ -1,0 +1,366 @@
+[
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_background_window.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_background_window.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_fullwidth_details_overview.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_fullwidth_details_overview.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_search_fragment.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_search_fragment.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_fullwidth_details_overview_logo.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_fullwidth_details_overview_logo.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_control_bar.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_control_bar.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_search_bar.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_search_bar.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_image_card_view_themed_badge_left.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_image_card_view_themed_badge_left.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/action_widget_container.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/action_widget_container.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_browse_title.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_browse_title.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_playback_controls.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_playback_controls.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_guidedstep_background.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_guidedstep_background.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/action_item.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/action_item.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_control_button_secondary.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_control_button_secondary.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_vertical_grid_fragment.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_vertical_grid_fragment.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/progress_dialog_fragment.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/progress_dialog_fragment.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_headers_fragment.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_headers_fragment.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_details_description.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_details_description.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_details_fragment.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_details_fragment.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_list_row_hovercard.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_list_row_hovercard.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_guidedactions_item.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_guidedactions_item.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_control_button_primary.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_control_button_primary.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/read_dialog.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/read_dialog.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_action_1_line.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_action_1_line.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_browse_fragment.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_browse_fragment.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_rows_fragment.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_rows_fragment.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_row_header.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_row_header.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_image_card_view_themed_badge_right.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_image_card_view_themed_badge_right.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_guidedstep_fragment.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_guidedstep_fragment.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_speech_orb.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_speech_orb.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_error_fragment.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_error_fragment.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_shadow.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_shadow.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_details_overview.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_details_overview.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_guidedactions.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_guidedactions.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/error_fragment.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/error_fragment.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_image_card_view.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_image_card_view.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_search_orb.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_search_orb.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_image_card_view_themed_title.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_image_card_view_themed_title.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/logout_layout.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/logout_layout.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_header.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_header.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/login_layout.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/login_layout.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/simple_dialog_layout.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/simple_dialog_layout.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_row_container.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_row_container.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/powered_by_image_view.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/powered_by_image_view.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_action_2_lines.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_action_2_lines.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/action_widget_grid_view.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/action_widget_grid_view.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/notification_template_lines.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_vertical_grid.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_vertical_grid.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/read_dialog_default_layout.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/read_dialog_default_layout.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_title_view.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_title_view.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_image_card_view_themed_content.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_image_card_view_themed_content.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/second_screen_auth.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/second_screen_auth.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_guidance.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_guidance.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_list_row.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_list_row.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/slide_show_setting_layout.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/src/main/res/layout/slide_show_setting_layout.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/res/merged/debug/layout/lb_playback_controls_row.xml",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/Utils/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/layout/lb_playback_controls_row.xml"
+    }
+]

@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/res/merged/debug/raw/lb_voice_no_input.ogg",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/raw/lb_voice_no_input.ogg"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/res/merged/debug/raw/lb_voice_open.ogg",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/raw/lb_voice_open.ogg"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/res/merged/debug/raw/lb_voice_failure.ogg",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/raw/lb_voice_failure.ogg"
+    },
+    {
+        "merged": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/res/merged/debug/raw/lb_voice_success.ogg",
+        "source": "/Users/crobertdillon/Documents/TribuneStuff/TribuneGitHub/fire-app-builder/PurchaseInterface/build/intermediates/exploded-aar/com.android.support/leanback-v17/23.1.1/res/raw/lb_voice_success.ogg"
+    }
+]
