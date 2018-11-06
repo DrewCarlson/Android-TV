@@ -579,6 +579,7 @@ public class TenFootPlaybackOverlayFragment extends DetailsFragment {
                     startFadeTimer();
                 }
                 break;
+            case KeyEvent.KEYCODE_BUTTON_B:
             case KeyEvent.KEYCODE_BACK:
             case KeyEvent.KEYCODE_ESCAPE:
                 consumeEvent = handleEscapeKey((KeyEvent) event);
