@@ -31,6 +31,7 @@ package android.support.v17.leanback.app;
 
 import com.amazon.android.configuration.ConfigurationManager;
 import com.amazon.android.tv.tenfoot.R;
+import com.amazon.android.tv.tenfoot.utils.DpadHelper;
 import com.amazon.android.ui.constants.ConfigurationConstants;
 
 import android.animation.Animator;
@@ -542,8 +543,8 @@ public class TenFootPlaybackOverlayFragment extends DetailsFragment {
             mKeyCode = -1;
         }
 
-        if (isHatAxisEvent(event)) {
-            keyCode = getHatAxisKeyCode((MotionEvent) event);
+        if (DpadHelper.isHatAxisEvent(event)) {
+            keyCode = DpadHelper.getHatAxisKeyCode((MotionEvent) event);
         }
 
         switch (keyCode) {
@@ -1092,29 +1093,6 @@ public class TenFootPlaybackOverlayFragment extends DetailsFragment {
 
         view.setPadding(view.getPaddingLeft(), view.getPaddingTop(),
                         view.getPaddingRight(), padding);
-    }
-
-    private static boolean isHatAxisEvent(InputEvent event) {
-        boolean isMotionEvent = event instanceof MotionEvent;
-        boolean isDpadEvent = (event.getSource() & InputDevice.SOURCE_DPAD)
-                != InputDevice.SOURCE_DPAD;
-        return isMotionEvent && isDpadEvent;
-    }
-
-    private int getHatAxisKeyCode(MotionEvent event) {
-        float xAxis = event.getAxisValue(MotionEvent.AXIS_HAT_X);
-        float yAxis = event.getAxisValue(MotionEvent.AXIS_HAT_Y);
-
-        if (Float.compare(xAxis, -1.0f) == 0) {
-            return KeyEvent.KEYCODE_DPAD_LEFT;
-        } else if (Float.compare(xAxis, 1.0f) == 0) {
-            return KeyEvent.KEYCODE_DPAD_RIGHT;
-        } else if (Float.compare(yAxis, -1.0f) == 0) {
-            return KeyEvent.KEYCODE_DPAD_UP;
-        } else if (Float.compare(yAxis, 1.0f) == 0) {
-            return KeyEvent.KEYCODE_DPAD_DOWN;
-        }
-        return -1;
     }
 
     /**
